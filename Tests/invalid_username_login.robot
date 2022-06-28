@@ -1,5 +1,4 @@
 *** Settings ***
-Library           SeleniumLibrary
 Resource    ../Ressources/BasePage.robot
 Resource    ./TestData.robot
 Resource    ../Ressources/PageObjects/LoginPage.robot
